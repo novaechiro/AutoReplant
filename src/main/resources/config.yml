@@ -1,0 +1,10 @@
+replant-delay-ticks: 2
+replants-per-tick: 100
+
+active-seconds: 10
+cooldown-seconds: 30
+
+ignorecooldown: false
+
+require-hoe: true
+max-queue-size: 5000

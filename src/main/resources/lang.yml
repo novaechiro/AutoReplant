@@ -1,0 +1,13 @@
+no-permission: "&cYou do not have permission."
+only-player: "&cOnly players can use this command."
+
+enabled: "&aAutoReplant enabled."
+disabled: "&cAutoReplant disabled."
+
+enabled-timed: "&aAutoReplant enabled for &e{seconds}&a seconds."
+expired: "&cAutoReplant expired. Cooldown started."
+
+cooldown: "&cYou must wait &e{seconds}&c seconds before using this again."
+
+queue-full: "&cReplant queue is currently full. Try again later."
+reloaded: "&aAutoReplant reloaded."

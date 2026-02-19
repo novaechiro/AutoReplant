@@ -1,0 +1,16 @@
+name: AutoReplant
+version: 1.0
+main: com.novaechiro.autoreplant.AutoReplant
+api-version: 1.20.6
+
+commands:
+  autoreplant:
+    description: Main command for AutoReplant
+    usage: /autoreplant
+    permission: autoreplant.use
+
+permissions:
+  autoreplant.use:
+    default: false
+  autoreplant.reload:
+    default: op
